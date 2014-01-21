@@ -6,7 +6,8 @@ you want to see a profile picture of someone who isn't your friend
 but all you have is this poor tiny 160 x 160 pic
 !
 hopefully this program is made for you !
-just enter the url of the tiny pic and it will give you the link to the bigger one
+just enter the profile url of the FB account and it will give you a link to the first uploaded picture
+(not a cropped one)
 
 
 Files:
