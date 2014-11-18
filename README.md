@@ -20,4 +20,8 @@ Keep in mind:
  - this probably won't work forever
  - I didn't test all the possibility (because I don't know them)
  - feedback is welcome
+ - 
+ 
+EDIT - 2014-11-18:
+It doesn't work anymore :(
 	
